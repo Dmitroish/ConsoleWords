@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4FiVQ3738NSLwQUuKEuLN0ZXsamvzymhlCAcKH6dICaTEd8hFh7NHEPt97bGzx+apYU8BWTZaMx6mmYoQdPSHw==",
+  "success": true,
+  "projectFilePath": "C:\\Games\\Words1\\ConsoleWords\\ConsoleWords\\ConsoleWords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\999\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
